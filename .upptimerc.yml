@@ -7,8 +7,6 @@ sites:
     url: https://yj.onrender.com
   - name: Bitwarden
     url: https://bitwarden.yunus.eu.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
   - name: Book's Website
     url: https://book.yunusplays.eu.org
 
