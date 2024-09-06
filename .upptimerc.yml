@@ -4,7 +4,7 @@ repo: uptime-yunusteam # The name of this repository
 
 sites:
   - name: Jackett
-    url: https://yj.onrender.com
+    url: https://yj.onrender.com/UI/Dashboard
   - name: Bitwarden
     url: https://bitwarden.yunus.eu.org
   - name: Book's Website
