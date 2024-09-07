@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-07": 385,
+      "2024-09-07": 410,
       "2024-09-06": 414
     }
   },
@@ -25,17 +25,17 @@
     "url": "https://bitwarden.yunus.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.yunus.eu.org.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "83.90%",
-    "uptimeDay": "83.90%",
-    "uptimeWeek": "83.90%",
-    "uptimeMonth": "83.90%",
-    "uptimeYear": "83.90%",
-    "time": 1063,
-    "timeDay": 1063,
-    "timeWeek": 1063,
-    "timeMonth": 1063,
-    "timeYear": 1063,
+    "status": "down",
+    "uptime": "84.38%",
+    "uptimeDay": "84.38%",
+    "uptimeWeek": "84.38%",
+    "uptimeMonth": "84.38%",
+    "uptimeYear": "84.38%",
+    "time": 1013,
+    "timeDay": 1013,
+    "timeWeek": 1013,
+    "timeMonth": 1013,
+    "timeYear": 1013,
     "dailyMinutesDown": {
       "2024-09-07": 129
     }
