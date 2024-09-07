@@ -3,9 +3,6 @@ owner: yunus25jmi1 # Your GitHub organization or username, where this repository
 repo: uptime-yunusteam # The name of this repository
 
 sites:
-  - name: Jackett
-    url: https://yj.onrender.com/UI/Dashboard
-    port: 10000
   - name: Bitwarden
     url: https://bitwarden.yunus.eu.org
   - name: Book's Website
