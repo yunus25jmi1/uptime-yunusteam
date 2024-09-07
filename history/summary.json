@@ -1,41 +1,20 @@
 [
   {
-    "name": "Jackett",
-    "url": "https://yj.onrender.com/UI/Dashboard",
-    "icon": "https://icons.duckduckgo.com/ip3/yj.onrender.com.ico",
-    "slug": "jackett",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-09-07": 440,
-      "2024-09-06": 414
-    }
-  },
-  {
     "name": "Bitwarden",
     "url": "https://bitwarden.yunus.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.yunus.eu.org.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "81.34%",
-    "uptimeDay": "81.34%",
-    "uptimeWeek": "81.34%",
-    "uptimeMonth": "81.34%",
-    "uptimeYear": "81.34%",
-    "time": 978,
-    "timeDay": 978,
-    "timeWeek": 978,
-    "timeMonth": 978,
-    "timeYear": 978,
+    "uptime": "85.44%",
+    "uptimeDay": "85.44%",
+    "uptimeWeek": "85.44%",
+    "uptimeMonth": "85.44%",
+    "uptimeYear": "85.44%",
+    "time": 931,
+    "timeDay": 931,
+    "timeWeek": 931,
+    "timeMonth": 931,
+    "timeYear": 931,
     "dailyMinutesDown": {
       "2024-09-07": 160
     }
@@ -51,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 509,
-    "timeDay": 509,
-    "timeWeek": 509,
-    "timeMonth": 509,
-    "timeYear": 509,
+    "time": 510,
+    "timeDay": 510,
+    "timeWeek": 510,
+    "timeMonth": 510,
+    "timeYear": 510,
     "dailyMinutesDown": {}
   }
 ]
