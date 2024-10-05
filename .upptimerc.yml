@@ -8,8 +8,8 @@ sites:
   - name: Book's Website
     url: https://book.yunusplays.eu.org
   - name: Excalidraw
-    url: https://excalidraw-latest-gzp8.onrender.com
-
+    url: https://excalidraw.yunuscloud.eu.org
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
