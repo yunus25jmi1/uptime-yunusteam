@@ -6,9 +6,9 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "96.33%",
-    "uptimeDay": "95.86%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "94.83%",
+    "uptimeDay": "96.41%",
+    "uptimeWeek": "97.04%",
+    "uptimeMonth": "94.85%",
     "uptimeYear": "96.33%",
     "time": 2520,
     "timeDay": 905,
@@ -16,7 +16,7 @@
     "timeMonth": 2711,
     "timeYear": 2520,
     "dailyMinutesDown": {
-      "2024-12-02": 60,
+      "2024-12-02": 52,
       "2024-12-01": 103,
       "2024-11-30": 35,
       "2024-11-28": 30,
@@ -79,7 +79,8 @@
       "2024-09-16": 44,
       "2024-09-14": 464,
       "2024-09-12": 19,
-      "2024-09-10": 74
+      "2024-09-10": 74,
+      "2024-09-09": 20
     }
   },
   {
@@ -107,12 +108,12 @@
     "slug": "excalidraw",
     "status": "up",
     "uptime": "96.00%",
-    "uptimeDay": "91.30%",
+    "uptimeDay": "91.49%",
     "uptimeWeek": "96.56%",
     "uptimeMonth": "97.89%",
     "uptimeYear": "96.00%",
     "time": 4182,
-    "timeDay": 4386,
+    "timeDay": 5032,
     "timeWeek": 5967,
     "timeMonth": 4853,
     "timeYear": 4182,
