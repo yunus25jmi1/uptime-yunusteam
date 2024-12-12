@@ -1,7 +1,7 @@
 url: https://bitwarden.yunus.eu.org
-status: down
-code: 502
-responseTime: 1060
-lastUpdated: 2024-12-12T20:34:03.401Z
+status: up
+code: 200
+responseTime: 290
+lastUpdated: 2024-12-12T20:45:08.237Z
 startTime: 2024-09-06T17:06:14.836Z
 generator: Upptime <https://github.com/upptime/upptime>
