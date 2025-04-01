@@ -4,18 +4,19 @@
     "url": "https://bitwarden.yunus.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.yunus.eu.org.ico",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "97.39%",
-    "uptimeDay": "98.89%",
+    "uptimeDay": "98.85%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "97.39%",
     "time": 2540,
-    "timeDay": 5628,
+    "timeDay": 7402,
     "timeWeek": 4182,
     "timeMonth": 2841,
     "timeYear": 2540,
     "dailyMinutesDown": {
+      "2025-04-01": 1,
       "2025-03-31": 16,
       "2025-03-30": 40,
       "2025-03-22": 16,
@@ -86,8 +87,7 @@
       "2024-10-08": 21,
       "2024-10-07": 24,
       "2024-10-06": 40,
-      "2024-10-05": 31,
-      "2024-10-02": 18
+      "2024-10-05": 31
     }
   },
   {
@@ -199,18 +199,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gemini-search-chatbot.onrender.com.ico",
     "slug": "gemini-api",
     "status": "down",
-    "uptime": "1.66%",
-    "uptimeDay": "1.66%",
-    "uptimeWeek": "1.66%",
-    "uptimeMonth": "1.66%",
-    "uptimeYear": "1.66%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 164,
     "timeDay": 164,
     "timeWeek": 164,
     "timeMonth": 164,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-04-01": 0
+      "2025-04-01": 109
     }
   }
 ]
