@@ -9,6 +9,8 @@ sites:
     url: https://book.yunusplays.eu.org
   - name: Excalidraw
     url: https://excalidraw.yunuscloud.eu.org
+  - name: Gemini API
+    url: https://gemini-search-chatbot.onrender.com
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
