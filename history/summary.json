@@ -4,18 +4,19 @@
     "url": "https://bitwarden.yunus.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.yunus.eu.org.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
+    "status": "down",
+    "uptime": "97.47%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.37%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "97.46%",
+    "uptimeYear": "97.47%",
     "time": 2551,
     "timeDay": 1176,
     "timeWeek": 3773,
     "timeMonth": 3101,
     "timeYear": 2551,
     "dailyMinutesDown": {
+      "2025-04-07": 2,
       "2025-04-05": 29,
       "2025-04-02": 16,
       "2025-03-31": 16,
@@ -87,7 +88,7 @@
       "2024-10-09": 20,
       "2024-10-08": 21,
       "2024-10-07": 24,
-      "2024-10-06": 40
+      "2024-10-06": 17
     }
   },
   {
@@ -113,9 +114,9 @@
     "url": "https://excalidraw.yunuscloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/excalidraw.yunuscloud.eu.org.ico",
     "slug": "excalidraw",
-    "status": "up",
+    "status": "down",
     "uptime": "98.57%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.57%",
@@ -125,6 +126,7 @@
     "timeMonth": 5990,
     "timeYear": 4021,
     "dailyMinutesDown": {
+      "2025-04-07": 0,
       "2025-04-02": 34,
       "2025-03-21": 19,
       "2025-03-20": 56,
@@ -211,7 +213,7 @@
     "timeMonth": 1788,
     "timeYear": 1788,
     "dailyMinutesDown": {
-      "2025-04-07": 101,
+      "2025-04-07": 180,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
