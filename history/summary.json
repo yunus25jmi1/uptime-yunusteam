@@ -4,18 +4,19 @@
     "url": "https://bitwarden.yunus.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.yunus.eu.org.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "97.78%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.24%",
-    "uptimeYear": "97.78%",
+    "status": "down",
+    "uptime": "97.79%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "97.79%",
     "time": 2627,
     "timeDay": 2372,
     "timeWeek": 2030,
-    "timeMonth": 3367,
+    "timeMonth": 3423,
     "timeYear": 2627,
     "dailyMinutesDown": {
+      "2025-05-07": 2,
       "2025-05-02": 20,
       "2025-04-29": 37,
       "2025-04-28": 17,
@@ -88,8 +89,7 @@
       "2024-10-20": 20,
       "2024-10-19": 32,
       "2024-10-18": 17,
-      "2024-10-17": 15,
-      "2024-10-16": 35
+      "2024-10-17": 15
     }
   },
   {
@@ -115,18 +115,19 @@
     "url": "https://excalidraw.yunuscloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/excalidraw.yunuscloud.eu.org.ico",
     "slug": "excalidraw",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "98.84%",
+    "status": "down",
+    "uptime": "98.86%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.48%",
+    "uptimeYear": "98.86%",
     "time": 4377,
-    "timeDay": 4975,
-    "timeWeek": 7080,
-    "timeMonth": 6868,
+    "timeDay": 9520,
+    "timeWeek": 6634,
+    "timeMonth": 6641,
     "timeYear": 4377,
     "dailyMinutesDown": {
+      "2025-05-07": 0,
       "2025-05-05": 18,
       "2025-05-02": 24,
       "2025-04-30": 24,
@@ -195,7 +196,7 @@
       "2024-10-17": 71,
       "2024-10-16": 27,
       "2024-10-15": 18,
-      "2024-10-14": 115
+      "2024-10-14": 65
     }
   },
   {
@@ -215,7 +216,7 @@
     "timeMonth": 335,
     "timeYear": 610,
     "dailyMinutesDown": {
-      "2025-05-07": 105,
+      "2025-05-07": 855,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
