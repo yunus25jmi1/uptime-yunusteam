@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.yunus.eu.org.ico",
     "slug": "bitwarden",
     "status": "up",
-    "uptime": "97.98%",
+    "uptime": "97.99%",
     "uptimeDay": "96.56%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.24%",
-    "uptimeYear": "97.98%",
+    "uptimeYear": "97.99%",
     "time": 2858,
     "timeDay": 1335,
     "timeWeek": 5286,
-    "timeMonth": 5165,
+    "timeMonth": 5334,
     "timeYear": 2858,
     "dailyMinutesDown": {
       "2025-06-01": 49,
@@ -114,15 +114,15 @@
     "url": "https://excalidraw.yunuscloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/excalidraw.yunuscloud.eu.org.ico",
     "slug": "excalidraw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "97.97%",
-    "uptimeWeek": "99.24%",
+    "uptimeDay": "97.96%",
+    "uptimeWeek": "99.42%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "99.33%",
     "time": 4556,
-    "timeDay": 8427,
-    "timeWeek": 7255,
+    "timeDay": 12462,
+    "timeWeek": 8503,
     "timeMonth": 6541,
     "timeYear": 4556,
     "dailyMinutesDown": {
@@ -196,7 +196,7 @@
       "2024-10-24": 19,
       "2024-10-23": 19,
       "2024-10-22": 49,
-      "2024-10-21": 63
+      "2024-10-21": 43
     }
   },
   {
@@ -216,7 +216,7 @@
     "timeMonth": 185,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2025-06-01": 403,
+      "2025-06-01": 876,
       "2025-05-31": 1440,
       "2025-05-30": 1440,
       "2025-05-29": 1440,
