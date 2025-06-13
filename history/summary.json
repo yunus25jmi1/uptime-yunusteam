@@ -115,9 +115,9 @@
     "url": "https://excalidraw.yunuscloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/excalidraw.yunuscloud.eu.org.ico",
     "slug": "excalidraw",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "98.81%",
+    "uptimeDay": "98.79%",
     "uptimeWeek": "97.86%",
     "uptimeMonth": "98.95%",
     "uptimeYear": "99.34%",
@@ -127,6 +127,7 @@
     "timeMonth": 6767,
     "timeYear": 4705,
     "dailyMinutesDown": {
+      "2025-06-13": 0,
       "2025-06-12": 17,
       "2025-06-11": 42,
       "2025-06-10": 60,
@@ -199,7 +200,7 @@
       "2024-10-29": 23,
       "2024-10-28": 26,
       "2024-10-27": 19,
-      "2024-10-26": 51
+      "2024-10-26": 27
     }
   },
   {
@@ -219,7 +220,7 @@
     "timeMonth": 177,
     "timeYear": 394,
     "dailyMinutesDown": {
-      "2025-06-13": 108,
+      "2025-06-13": 192,
       "2025-06-12": 1440,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
