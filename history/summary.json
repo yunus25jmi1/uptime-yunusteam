@@ -4,19 +4,19 @@
     "url": "https://bitwarden.yunus.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/bitwarden.yunus.eu.org.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "98.54%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "97.81%",
-    "uptimeMonth": "98.46%",
-    "uptimeYear": "98.54%",
+    "status": "down",
+    "uptime": "98.55%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "97.79%",
+    "uptimeMonth": "98.45%",
+    "uptimeYear": "98.55%",
     "time": 3395,
-    "timeDay": 10175,
+    "timeDay": 9529,
     "timeWeek": 6456,
     "timeMonth": 8414,
     "timeYear": 3395,
     "dailyMinutesDown": {
-      "2025-06-29": 18,
+      "2025-06-29": 20,
       "2025-06-28": 19,
       "2025-06-27": 34,
       "2025-06-26": 20,
@@ -89,7 +89,7 @@
       "2024-12-01": 103,
       "2024-11-30": 35,
       "2024-11-28": 30,
-      "2024-11-27": 37
+      "2024-11-27": 16
     }
   },
   {
@@ -115,18 +115,19 @@
     "url": "https://excalidraw.yunuscloud.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/excalidraw.yunuscloud.eu.org.ico",
     "slug": "excalidraw",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "98.67%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "98.66%",
     "uptimeWeek": "96.27%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "99.35%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "99.36%",
     "time": 4828,
     "timeDay": 6451,
     "timeWeek": 5379,
     "timeMonth": 6908,
     "timeYear": 4828,
     "dailyMinutesDown": {
+      "2025-06-29": 0,
       "2025-06-28": 19,
       "2025-06-27": 94,
       "2025-06-26": 116,
@@ -193,8 +194,7 @@
       "2024-11-18": 61,
       "2024-11-16": 52,
       "2024-11-15": 47,
-      "2024-11-14": 105,
-      "2024-11-13": 22
+      "2024-11-14": 105
     }
   },
   {
@@ -214,7 +214,7 @@
     "timeMonth": 171,
     "timeYear": 354,
     "dailyMinutesDown": {
-      "2025-06-29": 414,
+      "2025-06-29": 649,
       "2025-06-28": 1440,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
