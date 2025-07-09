@@ -1,7 +1,7 @@
 url: https://excalidraw.yunuscloud.eu.org
-status: up
-code: 200
-responseTime: 413
-lastUpdated: 2025-07-09T09:56:59.461Z
+status: down
+code: 429
+responseTime: 308
+lastUpdated: 2025-07-09T10:24:38.250Z
 startTime: 2024-10-05T07:36:58.304Z
 generator: Upptime <https://github.com/upptime/upptime>
